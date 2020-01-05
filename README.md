@@ -1,4 +1,4 @@
-# Konkurs na najlepszą pracę magisterską z uczenia maszynowego i analizy danych
+# Konkurs na najlepszą pracę magisterską dotyczącą uczenia maszynowego i analizy danych
 
 Edycja 2018/2019 odbędzie się w dwóch kategoriach:
 
