@@ -6,4 +6,4 @@ Edycja 2018/2019 odbędzie się w dwóch kategoriach:
 * Kategoria ,,Zastosowania''
 
 Więcej informacji
-https://mini-pw.github.io/KonkursDataScience/
+https://mini-pw.github.io/DataScienceInnovators
