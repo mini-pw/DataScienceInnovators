@@ -6,4 +6,4 @@ Edycja 2018/2019 odbędzie się w dwóch kategoriach:
 * Kategoria ,,Zastosowania''
 
 Więcej informacji
-https://mini-pw.github.io/DataScienceInnovators
+https://mi2-education.github.io/DataScienceInnovators/
