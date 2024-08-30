@@ -6,4 +6,4 @@ Edycja 2020/2021 odbędzie się w dwóch kategoriach:
 * Kategoria ,,Zastosowania''
 
 Więcej informacji
-https://mi2-education.github.io/DataScienceInnovators/
+https://mini-pw.github.io/DataScienceInnovators/
